@@ -21,3 +21,9 @@ En este programa se hizo una demostración del uso de las funciones matematicas 
 En este programa se hizo una demostreción del uso de las siguientes funciones de la biblioteca string.h
 * gets
 * strcat
+
+## tiemDemo.c
+En este programa se imprime las horas transcurridas desde EPOCH
+
+## timeDemo2.c
+En este programa se imprime el tiempo que se demoró el programa en ejecutar
