@@ -27,3 +27,6 @@ En este programa se imprime las horas transcurridas desde EPOCH
 
 ## timeDemo2.c
 En este programa se imprime el tiempo que se demoró el programa en ejecutar
+
+## decimilToBinary.c
+En este programa se imprime el número en binario que el usuario ingreso y se usa la función sistem("clear")
