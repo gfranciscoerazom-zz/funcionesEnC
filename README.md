@@ -15,4 +15,9 @@ En este programa se hizo la implementación de los sigientes tipos de funciones.
 3. Función con return y con argumentos.
 
 ## mathDemo.c
-En este progrma se hizo una demostración del uso de las funciones matematicas seno, coseno y tangente.
+En este programa se hizo una demostración del uso de las funciones matematicas seno, coseno y tangente.
+
+## stringDemo.c
+En este programa se hizo una demostreción del uso de las siguientes funciones de la biblioteca string.h
+* gets
+* strcat
