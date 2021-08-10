@@ -13,3 +13,6 @@ En este programa se hizo la implementación de los sigientes tipos de funciones.
 1. Función sin return y sin argumentos.
 2. Función sin return y con argumentos.
 3. Función con return y con argumentos.
+
+## mathDemo.c
+En este progrma se hizo una demostración del uso de las funciones matematicas seno, coseno y tangente.
